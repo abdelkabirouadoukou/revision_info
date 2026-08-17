@@ -1,4 +1,4 @@
-# Révision Info (SUP)
+# Révision Info — SUP
 
 Dépôt de révision pour le module **Informatique** (classes préparatoires, niveau **SUP**).
 Ce projet regroupe les cours, les TD énoncés et les TD corrigés de tous les chapitres du programme, organisés dans l'ordre officiel de progression, pour faciliter la révision avant les examens.
@@ -15,14 +15,17 @@ Ce projet regroupe les cours, les TD énoncés et les TD corrigés de tous les c
 revision_info/
 ├── README.md
 ├── 01_codage_information/
-│   ├── cours.pdf
-│   ├── td_enonce.pdf
-│   └── td_corrige.pdf
+│   ├── enonce.pdf
+│   ├── exercices.py
+│   └── notes.md
 ├── 02_introduction_python/
-│   ├── cours.pdf
-│   └── td_enonce.pdf
-│   └── td_corrige.pdf
+│   ├── enonce.pdf
+│   ├── exercices.py
+│   └── notes.md
 ├── 03_structure_controle/
+│   ├── enonce.pdf
+│   ├── exercices.py
+│   └── notes.md
 ├── 04_fonctions_procedures/
 ├── 05_recursivite/
 ├── 06_listes/
