@@ -20,7 +20,7 @@ revision_info/
 │   └── td_corrige.pdf
 ├── 02_introduction_python/
 │   ├── cours.pdf
-│   ├── td_enonce.pdf
+│   └── td_enonce.pdf
 │   └── td_corrige.pdf
 ├── 03_structure_controle/
 ├── 04_fonctions_procedures/
